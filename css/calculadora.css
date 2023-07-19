@@ -1,7 +1,7 @@
 body{
-    background: url("../img/calculadora.jpg") no-repeat;
-    background-size:60%;
-    background-position:-15% -100%;
+    background: url("../img/calculadora.svg") no-repeat;
+    background-size:55%;
+    background-position-x:-10%;
 }
 .main-frame-cal{
     width: 50%;
@@ -14,6 +14,8 @@ body{
 }
 .main-frame-cal label{
     font-weight: bold;
+    color:black;
+    font-size: 20px;
 }
 button{
     float: right;
@@ -25,10 +27,6 @@ button{
     top: 25px;
     left: 25px;
     width: 50px;
-}
-label{
-    color:black;
-    font-size: 20px;
 }
 .titulo{
     color:#6610f2;

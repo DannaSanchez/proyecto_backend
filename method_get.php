@@ -14,6 +14,7 @@
         <img class="home" src="img/hogar.svg" alt="">
     </a>
     <div class="main-frame-cal">
+        <h2>Envío de Datos</h2>
     <form action="" method="get">
         <div class="form-group">
             <label for="exampleFormControlInput1">Nombre</label>
@@ -27,7 +28,7 @@
             <label for="exampleFormControlInput1">Cédula</label>
             <input type="text" name="cc" class="form-control" id="exampleFormControlInput1" placeholder="Digite su Cédula">
         </div>
-        <button type="submit" name="verificar" class="btn btn-outline-info">Envíar</button>
+        <button type="submit" name="verificar" class="btn">Envíar</button>
     </form>
 
     <?php

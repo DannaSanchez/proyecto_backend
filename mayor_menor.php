@@ -15,11 +15,12 @@
     </a>
     <div class="main-frame-cal">
     <form action="" method="POST">
+        <h2>Mayor o Menor</h2>
         <div class="form-group">
             <label for="exampleFormControlInput1">Edad</label>
             <input type="number" name="edad" class="form-control" id="exampleFormControlInput1" placeholder="Digite su edad">
         </div>
-        <button type="submit" name="verificar" class="btn btn-outline-info">Operar</button>
+        <button type="submit" name="verificar" class="btn">Operar</button>
     </form>
 
     <?php

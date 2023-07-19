@@ -1,0 +1,42 @@
+body {
+    background: url("../img/method_get.svg") no-repeat;
+    background-size:45%;
+    background-position:3%;
+}
+.main-frame-cal {
+    width: 50%;
+    padding: 30px 50px;
+    height: 460px;
+    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 0.911);
+    border: 2px solid #6610f2;
+    margin: 7% auto;
+}
+.main-frame-cal label {
+    font-weight: bold;
+    color:black;
+    font-size: 1.5rem;
+}
+
+button{
+    float: right;
+    background-color: #6610f2;
+    color: white;
+}
+
+.home {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 50px;
+}
+
+h2{
+    color:#6610f2;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.form-group{
+    margin: 10px 0;
+}
